@@ -1,0 +1,10 @@
+com/example/QueryTuple.class
+com/example/CranfieldIndexer.class
+com/example/App.class
+com/example/App_bm25.class
+com/example/lucene/DocIndexer$DocContentType.class
+com/example/CranfieldBM25Query.class
+com/example/DocumentToIndex.class
+com/example/App_vsm.class
+com/example/lucene/DocIndexer.class
+com/example/CranfieldVSMQuery.class
